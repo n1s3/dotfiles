@@ -14,6 +14,4 @@ dwmblocks &
 xset s 900 900 -dpms & #power settings
 pulseaudio --start &
 
-light &
-
 exec dwm
